@@ -1,7 +1,7 @@
 
 import { Colors } from './colors';
 import { Measures } from './measures';
-const rexos = {
+const renoroc = {
            color: "#000000",
            width: {
                    measure: 1,
@@ -13,6 +13,6 @@ const rexos = {
 
 
 export const Borders = {
-  /** Crypto bridge blockchain technology */
-      rexos,
+  /** Design system */
+      renoroc,
 }
