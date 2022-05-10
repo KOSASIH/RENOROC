@@ -1,10 +1,10 @@
-const rexos = {
+const renoroc = {
           measure: 5000,
           unit: "Pixels",
           css: "5000px"
          };
 
 export const Measures = {
-  /** Crypto bridge blockchain technology */
-      rexos,
+  /** Design system */
+      renoroc,
 }
