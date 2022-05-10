@@ -1,6 +1,6 @@
 
 import { Measures } from './measures';
-const rexos = {
+const renoroc = {
            radius: {
                       measure: 0,
                       unit: "Pixels",
@@ -10,6 +10,6 @@ const rexos = {
 
 
 export const Raddii = {
-  /** Crypto bridge blockchain technology */
-      rexos,
+  /** Design system */
+      renoroc,
 }
