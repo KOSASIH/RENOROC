@@ -2,7 +2,7 @@
 import { Colors } from './colors';
 import { Measures } from './measures';
 
-const rexos = {  
+const renoroc = {  
            offsetX: {
                      measure: 0,
                      unit: "Pixels",
@@ -28,6 +28,6 @@ const rexos = {
 
 
 export const Shadows = {
-  /** Crypto bridge blockchain technology */
-      rexos,
+  /** Design system */
+      renoroc,
 }
