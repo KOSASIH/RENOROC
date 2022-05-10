@@ -1,6 +1,6 @@
 
 import { Measures } from './measures';
-const rexos = {
+const renoroc = {
            fontFamily: "Roboto",
            fontStyle: "normal",
            fontWeight: 400,
@@ -28,6 +28,6 @@ const rexos = {
 
 
 export const Typographies = {
-  /** Crypto bridge blockchain technology */
-      rexos,
+  /** Design system */
+      renoroc,
 }
