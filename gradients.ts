@@ -2,7 +2,7 @@
 import { Colors } from './colors';
 import { Measures } from './measures';
 
-const rexos = {
+const renoroc = {
            type: 'Linear',
             direction: {
              from: {x: 0.5, y: 0 },
@@ -22,6 +22,6 @@ const rexos = {
 
 
 export const Gradients = {
-  /** Crypto bridge blockchain technology */
-      rexos,
+  /** Design system */
+      renoroc,
 }
